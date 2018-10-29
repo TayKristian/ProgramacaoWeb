@@ -1,0 +1,25 @@
+	body{
+		margin: 10% 40%;
+	}
+
+	span{
+		text-align: center;
+		text-align: 48px;
+		font-family: arial;
+	}
+
+	.g{
+		color: blue;
+	}
+
+	.oe{
+		color: red;
+	}
+
+	.o2{
+		color: yellow;
+	}
+
+	.l{
+		color: green;
+	}

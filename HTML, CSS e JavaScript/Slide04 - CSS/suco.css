@@ -1,0 +1,29 @@
+	body{
+		margin: 5% 20%;
+	}
+
+	hr,h3,h4,p{
+		font-family: arial;
+		color: #007E7E;
+	}
+
+	p.verde{
+		color: MediumSeaGreen;
+	}
+
+	p.azul{
+		color: blue;
+	}
+
+	p.roxo{
+		color: purple;
+	}
+
+	p.vermelho{
+		color: maroon;
+	}
+	
+	p.cinza{
+		color: grey;
+		text-align: center;
+	}

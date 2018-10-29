@@ -1,0 +1,31 @@
+	body{
+		margin: 2% 20% 2% 20%;
+	}
+	
+	h2,p{
+		font-family: arial;
+		color: maroon;
+	}
+
+	.p2{
+		font-size: 12px;
+	}
+
+	#p3{
+		font-size: 12px;
+	}
+
+	.p4{
+		font-size: 12px;
+		text-align: center;
+	}
+
+	#p5{
+		font-size: 12px;
+		text-align: right;
+	}
+
+	.p6{
+		font-size: 12px;
+		text-align: center;	
+	}
